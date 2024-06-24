@@ -1,0 +1,155 @@
+/* Body */
+
+h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 4.2rem;
+    line-height: 1.2;
+    font-weight: 500;
+
+}
+
+h2 {
+    font-family: 'Sansita', sans-serif;
+    font-size: 3rem;
+    line-height: 1.2;
+    font-weight: 500;
+
+}
+
+h3 {
+    font-family: 'Sansita', sans-serif;
+    font-size: 1.5rem;
+    padding-bottom: 20px;
+
+}
+
+p {
+    font-family: Montserrat;
+    text-align: center;
+    font-weight: 500;
+}
+
+a {
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    color: #51557E;
+}
+
+a:hover {
+    color: black;
+}
+
+/* Title Section */
+#title {
+    background-color: #F2D1D1;
+
+}
+
+/* Navigation bar */
+.navbar {
+    padding: 10px 60px;
+}
+
+.brand-name {
+    color: #635666;
+    font-weight: bolder;
+    margin-right: 28rem;
+    font-family: 'Sansita', sans-serif;
+    font-size: xx-large;
+}
+
+.nav-item {
+    margin: auto 5px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+}
+
+/* Intro Section*/
+#intro {
+    background-color: #FFE6E6;
+    padding: 5% 25%;
+    text-align: center;
+}
+
+.intro {
+    margin: auto 30px;
+}
+
+/* Intro Image Section */
+
+.ribbon {
+    width: 20%;
+    float: left;
+    padding-right: 10px;
+}
+
+.jewel-pic {
+    width: 31%;
+    padding: 60px 10px;
+
+}
+
+#features {
+    background-color: #E0DECA;
+    padding: 5% 25%;
+}
+
+.features {
+    margin: auto 30px;
+}
+
+.features-text {
+    text-align: center;
+}
+
+.features-img-container {
+    width: 30%;
+    margin: auto;
+}
+
+.features-pic {
+    border-radius: 10%;
+}
+
+/* Category */
+#choice {
+    padding: 3% 18%;
+}
+#category {
+    padding: 3% 18%;    
+}
+
+#container {
+    padding: 3% 18%;    
+}
+
+.anushka {
+    padding-bottom: 10px;
+}
+
+/* Ending Portion */
+#ending {
+    background-color: #DAEAF1;
+    padding: 3% 2%;
+}
+.end {
+    text-align: left;
+    line-height: 35%;
+}
+
+.head-end {
+    padding: 30px 30px;
+}
+
+.follow {
+    padding: 10px 10px;
+}
+
+.copyright:hover {
+    color: black;
+}
+
+/* Caorusel */
+.carousel-item {
+    padding: 5% 10%;
+}
